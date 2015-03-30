@@ -1,0 +1,1 @@
+The old gamemode of gmod fixed to gmod 12, working on gmod 13.
